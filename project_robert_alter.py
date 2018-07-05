@@ -3,7 +3,7 @@
 
 # In[40]:
 
-
+# predict D00000001 return
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import Ridge
