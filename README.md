@@ -1,2 +1,2 @@
-# Code-During-Intern
-Some code during Intern at RidgeTech
+# Codes-During-Intern
+Some codes during internship at HighFort.
